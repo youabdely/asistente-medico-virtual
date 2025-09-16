@@ -24,7 +24,7 @@ El objetivo de este asistente es ofrecer respuestas rápidas a consultas médica
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/asistente-medico.git
+git clone https://github.com/youabdely/asistente-medico-virtual
 cd asistente-medico
 ```
 
